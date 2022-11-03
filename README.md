@@ -1,6 +1,7 @@
 # THE HIRO KAMI
 Olá, sou João Vitor Alves mais conhecido como hiro kami🍷😇
-<p><b>Objetivo: </b> meu objetivo é criar programas com foco no desempenho de sistemas linux e ferramentas para pentesters, e estou procurando colaborr com novo programadores</p>
+<hr></hr>
+<p><b>Objetivo: </b> meu objetivo é criar programas com foco no desempenho de sistemas linux e ferramentas para pentesters, e estou procurando colaborar com novo programadores</p>
 
 ### Linguagens
 
