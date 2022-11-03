@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @H1R0Z1N
-- 👀 I’m interested in create simple and quality programs 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on with new programmers
-- 📫 How to reach me, my whatsapp is +55 91991896240
+# THE HIRO KAMI
+Olá, sou João Vitor Alves mais conhecido como hiro kami🍷😇
+<p><b>Objetivo: </b> meu objetivo é criar programas com foco no desempenho de sistemas linux e ferramentas para pentesters, e estou procurando colaborr com novo programadores</p>
+
+### Linguagens
 
 <!---
 H1R0Z1N/H1R0Z1N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
