@@ -15,7 +15,7 @@
 <span align="right">
 
   <a href="https://youtube.com/channel/UCeYIzzzMCs-RVI8BJpG3KGg" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtuber.svg" alt="thatiemsz" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thatiemsz" height="30" width="40" />
 
   </a>
 
