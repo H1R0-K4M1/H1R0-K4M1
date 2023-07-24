@@ -1,14 +1,54 @@
-# THE HIRO KAMI
-Olá, sou João Vitor Alves mais conhecido como hiro kami🍷😇
-<hr></hr>
-<p><b>Objetivo: </b> meu objetivo é criar programas com foco no desempenho de sistemas linux e ferramentas para pentesters, e estou procurando colaborar com novo programadores</p>
+### HIRO KAMI <200d>♂️ Crio alguns projetos com foco em:
+- Desenvolvimento de gamers
+- Desenvimento de Apps
+- Ethical-Hacking
+## Me siga em:
+<p align="left">
 
-### Linguagens
-* Python3
-* Shell
-* Html5
-* Css
+  <a href="https://twitter.com/FoxWaynne" target="blank">
 
-### contato
-<p>Email: <a href="joaoo99966@gmail.com">joaoo99966@gmail.com</a></p>
-<p>Whatsapp: <a href="https://Wa.me/+559191896240">91 99189-6240</a></p>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatiemsz" height="30" width="40" />
+
+  </a>
+
+</p>
+
+<p align="left">
+
+  <a href="https://instagram.com/foxwaynne" target="blank">
+
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatiemsz" height="30" width="40" />
+
+  </a>
+
+</p>
+
+<p align="left">
+
+  <a href="https://discord.gg/xacC4ax5vn" target="blank">
+
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thatiemsz" height="30" width="40" />
+
+  </a>
+
+</p>
+
+
+
+![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/ThaTiemsz/output/snake.svg)
+
+
+
+## Skills
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,python,html,css,git,linux)
+
+
+
+<p>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatiemsz&show_icons=true&locale=en&layout=compact&theme=radical" alt="thatiemsz" />
+
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatiemsz&show_icons=true&locale=en&theme=radical" alt="thatiemsz" />
+
+</p>
