@@ -6,21 +6,21 @@
 ##Me siga em:
 
 
-<p align="left">
+<span align="left">
 
   <a href="https://instagram.com/the_hiro_kami" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatiemsz" height="30" width="40" /></a>
 
-</p>
+</span>
 
-<p align="right">
+<span align="right">
 
   <a href="https://discord.gg/xacC4ax5vn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thatiemsz" height="30" width="40" />
 
   </a>
 
-</p>
+</span>
 
 
 
