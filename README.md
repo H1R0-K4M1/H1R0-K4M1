@@ -1,33 +1,22 @@
-### HIRO KAMI <200d>♂️ Crio alguns projetos com foco em:
+# HIRO KAMI
+## Crio alguns projetos com foco em:
 - Desenvolvimento de gamers
 - Desenvimento de Apps
 - Ethical-Hacking
 ## Me siga em:
-<p align="left">
 
-  <a href="https://twitter.com/FoxWaynne" target="blank">
-
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatiemsz" height="30" width="40" />
-
-  </a>
-
-</p>
 
 <p align="left">
 
-  <a href="https://instagram.com/foxwaynne" target="blank">
-
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatiemsz" height="30" width="40" />
-
-  </a>
+  <a href="https://instagram.com/the_hiro_kami" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatiemsz" height="30" width="40" /></a>
 
 </p>
 
 <p align="left">
 
   <a href="https://discord.gg/xacC4ax5vn" target="blank">
-
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thatiemsz" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thatiemsz" height="30" width="40" />
 
   </a>
 
