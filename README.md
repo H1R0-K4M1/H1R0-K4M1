@@ -15,7 +15,7 @@
 <span align="right">
 
   <a href="https://discord.gg/xacC4ax5vn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thatiemsz" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/YouTube.svg" alt="thatiemsz" height="30" width="40" />
 
   </a>
 
