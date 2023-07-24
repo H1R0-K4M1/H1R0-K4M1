@@ -1,9 +1,9 @@
-# HIRO KAMI
-## Crio alguns projetos com foco em:
+### HIRO KAMI
+#### Crio alguns projetos com foco em:
 - Desenvolvimento de gamers
 - Desenvimento de Apps
 - Ethical-Hacking
-## Me siga em:
+##Me siga em:
 
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 </p>
 
-<p align="left">
+<p align="right">
 
   <a href="https://discord.gg/xacC4ax5vn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thatiemsz" height="30" width="40" />
