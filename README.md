@@ -3,9 +3,8 @@
 - Desenvolvimento de gamers
 - Desenvimento de Apps
 - Ethical-Hacking
-##Me siga em:
 
-
+## Me siga em:
 <span align="left">
 
   <a href="https://instagram.com/the_hiro_kami" target="blank">
