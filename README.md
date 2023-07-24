@@ -14,8 +14,8 @@
 
 <span align="right">
 
-  <a href="https://discord.gg/xacC4ax5vn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/YouTuber.svg" alt="thatiemsz" height="30" width="40" />
+  <a href="https://youtube.com/channel/UCeYIzzzMCs-RVI8BJpG3KGg" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtuber.svg" alt="thatiemsz" height="30" width="40" />
 
   </a>
 
