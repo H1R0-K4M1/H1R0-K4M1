@@ -1,7 +1,7 @@
 ### HIRO KAMI
 #### Crio alguns projetos com foco em:
-- Desenvolvimento de gamers
-- Desenvimento de Apps
+- Desenvolvimento de jogos
+- Desenvimento de Apps e websites
 - Ethical-Hacking
 
 ## Me siga em:
